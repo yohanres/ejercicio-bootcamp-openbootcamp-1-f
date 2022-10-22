@@ -1,3 +1,16 @@
+// Punto # 1 //   
+public static void main(String[] args) {
+        int resultado;
+        resultado = suma( 7, 4, 22);
+
+        System.out.println(resultado);
+    }
+    public static int suma(int a, int b, int c) {
+        return a + b + c;
+    }
+
+// Punto # 2 //
+
 public class Main {
 
     public static void main(String[] args) {
@@ -20,10 +33,7 @@ public class Main {
             this.puertas++;
         }
 
-
 }
-
-
 
 }
 

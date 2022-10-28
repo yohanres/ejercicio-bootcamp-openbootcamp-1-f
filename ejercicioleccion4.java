@@ -16,3 +16,17 @@ public class ejercicioleccion4 {
         }
     }
 }
+
+// punto numero 2 //
+
+public class ejercicioleccion4 {
+
+    public static void main(String[] args) {
+        int numerowhile = 0;
+        while (numerowhile < 3) {
+            System.out.println(numerowhile);
+            numerowhile = numerowhile + 1;
+        }
+    }
+}
+

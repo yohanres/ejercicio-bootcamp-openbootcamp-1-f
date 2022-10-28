@@ -30,3 +30,18 @@ public class ejercicioleccion4 {
     }
 }
 
+// punto numero 3 //
+
+public class ejercicioleccion4 {
+
+    public static void main(String[] args) {
+        int numerowhile = 4;
+        do {
+            System.out.println(numerowhile);
+            numerowhile = numerowhile + 1;
+        } while (numerowhile < 3);
+    }
+}
+
+// punto numero 4 //
+

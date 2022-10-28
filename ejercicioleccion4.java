@@ -1,3 +1,5 @@
+// punto numero 1 //
+
 public class ejercicioleccion4 {
 
     public static void main(String[] args) {
@@ -8,6 +10,7 @@ public class ejercicioleccion4 {
 
         } else if (numeroif < 0) {
             System.out.println("es negativo");
+            
         } else {
             System.out.println("es 0");
         }

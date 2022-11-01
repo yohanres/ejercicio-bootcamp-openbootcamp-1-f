@@ -45,3 +45,37 @@ public class ejercicioleccion4 {
 
 // punto numero 4 //
 
+public class ejercicioleccion4 {
+
+    public static void main(String[] args) {
+        for (int numerofor = 0; numerofor <= 3; numerofor = numerofor + 1) {
+            System.out.println(numerofor);
+        }
+    }
+}
+
+// punto numero 5 //
+
+public class ejercicioleccion4 {
+
+    public static void main(String[] args) {
+        var estaciondelaño = "invierno";
+
+        switch (estaciondelaño) {
+            case "invierno":
+                System.out.println("abrigate que hace mucho frio");
+                break;
+            case "verano":
+                System.out.println("vamos a la playa");
+                break;
+            case "otoño":
+                System.out.println("a recoger hojas");
+                break;
+            case "primavera":
+                System.out.println("no se que se hace en esta temporada");
+                break;
+            default:
+                System.out.println("Depende del pais donde vivas, no hay todas las estaciones");
+        }
+    }
+}
